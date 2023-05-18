@@ -8,3 +8,4 @@ Escolha da extração da base de dados por Produtos ou por NCM.
 
 Pré-requisito :
 Ter o Excel instalado no computador para a exportação e importação do arquivo.
+Executavel realiza a leitura do arquivo alterdb.ini para encontrar o banco de dados.
